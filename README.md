@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzair309-cse" alt="uzair309-cse" /></a> </p>
 
-- 🌱 I’m currently learning **Improving Full-Stack Web Development , DSA , OOP ,Git**
+- 🌱 I’m currently  **Improving Full-Stack Web Development , DSA , OOP ,Git**
 
 - 📫 How to reach me **ratheruzair83@gmail.com**
 
