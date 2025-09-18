@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ratheruzair83@gmail.com**
 
-- ⚡ Fun fact **Code,Learn,Build,Repeat**
+- ⚡ **Code,Learn,Build,Repeat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
