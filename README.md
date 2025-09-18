@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uzair Javaid Rather</h1>
 <h3 align="center"> CSE Student | Aspiring Software Engineer</h3>
 
-- 🌱 I’m currently  **Improving Full-Stack Web Development , DSA , OOP ,Git**
+- 🌱** Currently engaged in improving Full-Stack Web Development , building concepts in DSA and  OOP ,Git**
 
 - 📫 How to reach me **ratheruzair83@gmail.com**
 
