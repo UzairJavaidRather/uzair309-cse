@@ -3,8 +3,6 @@
 
 - 🌱** Currently engaged in improving Full-Stack Web Development , building concepts in DSA and  OOP ,Git**
 
-- 📫 How to reach me **ratheruzair83@gmail.com**
-
 - ⚡ **Code,Learn,Build,Repeat**
 
 <h3 align="left">Connect with me:</h3>
